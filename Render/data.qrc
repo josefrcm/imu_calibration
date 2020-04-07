@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>compassXYZ.mesh</file>
+        <file>compass.frag</file>
+        <file>compass.vert</file>
+    </qresource>
+</RCC>
